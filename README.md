@@ -8,29 +8,19 @@
 ### 🛠️ Tech Stack
 
 **Web Development:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" />
 
 **Machine Learning & Deep Learning:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,numpy,jupyter,scikit,keras" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,numpy,jupyter,scikit,keras" />
 
 **Databases and Tools:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,git,docker,kubernetes,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,git,docker,kubernetes,aws" />
 
 **App Development:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 **Other Languages:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,c,php,r" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,java,c,php,r" />
 
 ---
 
