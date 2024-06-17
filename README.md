@@ -9,7 +9,7 @@
 
 **Web Development:**
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,nodejs,react,redux,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" />
 </div>
 
 **Machine Learning & Deep Learning:**
@@ -19,7 +19,7 @@
 
 **Databases and Tools:**
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,docker,kubernetes,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,git,docker,kubernetes,aws" />
 </div>
 
 **App Development:**
@@ -29,7 +29,7 @@
 
 **Other Languages:**
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,java,c,php,ruby,r" />
+  <img src="https://skillicons.dev/icons?i=cs,java,c,php,r" />
 </div>
 
 ---
