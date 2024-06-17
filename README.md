@@ -29,7 +29,7 @@
 
 **Other Languages:**
 <div>
-  <img src="https://skillicons.dev/icons?i=csharp,java,c,php,ruby,r" />
+  <img src="https://skillicons.dev/icons?i=cs,java,c,php,ruby,r" />
 </div>
 
 ---
