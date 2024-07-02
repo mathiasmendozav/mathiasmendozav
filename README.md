@@ -26,8 +26,8 @@
 
 ### 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathiasMendozaVargas&theme=algolia&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasMendozaVargas&layout=compact&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathiasmendozav&theme=algolia&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmendozav&layout=compact&theme=algolia)
 
 ---
 
