@@ -1,16 +1,30 @@
+---
+
 ### 🛠️ Tech Stack
 
 **Web Development:**
-<img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" alt="Web Development Skills" />
+</p>
 
 **Machine Learning & Deep Learning:**
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,numpy,jupyter,scikit,keras" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,pandas,numpy,jupyter,scikit,keras" alt="Machine Learning & Deep Learning Skills" />
+</p>
 
 **Databases and Tools:**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,git,docker,kubernetes,aws" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,git,docker,kubernetes,aws" alt="Databases and Tools" />
+</p>
 
 **App Development:**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="App Development Skills" />
+</p>
 
 **Other Languages:**
-<img src="https://skillicons.dev/icons?i=cs,java,c,php,r" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,c,php,r" alt="Other Programming Languages" />
+</p>
+
+---
