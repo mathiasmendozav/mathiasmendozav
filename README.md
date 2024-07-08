@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; font-size: 0.93em;">
+<div style="display: flex; align-items: center; font-size: 0.99em;">
   <h3 style="margin: 0;">Full Stack Software Development:</h3>
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css,flutter,dart" style="margin-left: 10px; height: 28px;" alt="Full Stack Software Development Icons">
 </div>
