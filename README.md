@@ -1,4 +1,3 @@
-## Web Development:
 <div style="display: flex; align-items: center;">
   <h2 style="margin: 0;">Web Development:</h2>
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,bootstrap,sass,nodejs,express,vue,html,css" style="margin-left: 10px;" alt="Web Development Icons">
