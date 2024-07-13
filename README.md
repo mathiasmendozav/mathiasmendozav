@@ -17,9 +17,3 @@
   <h3 style="margin: 0;">Other Languages:</h3>
   <img src="https://skillicons.dev/icons?i=cs,java,c,php,r" style="margin-left: 10px; height: 33px;" alt="Other Languages Icons">
 </div>
-
-<!--- Status & Language --->
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=mathiasmendozav&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmendozav&layout=compact&theme=omni" />
-</p>
